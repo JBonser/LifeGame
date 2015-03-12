@@ -46,6 +46,9 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\GameAssets\Scripts\Core\LifeComponent.cs" />
+     <Compile Include="Assets\GameAssets\Scripts\Core\LifeMassEffect.cs" />
+     <Compile Include="Assets\GameAssets\Scripts\Core\LifeTransfer.cs" />
      <Compile Include="Assets\Scripts\Camera\CameraFollow.cs" />
      <Compile Include="Assets\Scripts\Player\PlayerMovement.cs" />
      <None Include="Assets\Standard Assets\Prototyping\Shaders\WorldCoordDiffuse.shader" />
